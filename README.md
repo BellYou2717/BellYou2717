@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hello, I'm BellYou2717!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AA2D&center=true&vCenter=true&width=435&lines=Passionate+Software+Engineer;7%2B+Years+of+Experience;Building+Scalable+Applications" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/BellYou2717/BellYou2717/blob/main/animation.gif" alt="MasterHead" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AA2D&center=true&vCenter=true&width=435&lines=Passionate+Software+Engineer;7%2B+Years+of+Experience;Building+Scalable+Applications" alt="Typing SVG" width="100" height="100" />
 </p>
 
 <p align="center">
