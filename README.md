@@ -1,20 +1,31 @@
-<h1 align="center">👋 Hello, I'm BellYou2717!</h1>
+# 👋 Hello, I'm BellYou2717
+[![MasterHead](https://github.com/BellYou2717/BellYou2717/blob/main/animation.gif)](https://github.com/BellYou2717/BellYou2717)
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&color=4169E1&center=true&vCenter=true&width=600&height=100&lines=💻+Software+Engineer;🚀+Problem+Solver;🎮+Tech+Enthusiast" alt="Typing SVG" />
+</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AA2D&center=true&vCenter=true&width=435&lines=Passionate+Software+Engineer;7%2B+Years+of+Experience;Building+Scalable+Applications" alt="Typing SVG" width="100" height="100" />
-</p>
+<div align="center" style="font-family: 'Roboto', sans-serif; font-size: 18px; color: #4169E1;">
 
-<p align="center">
-  I'm a dedicated software engineer 💻 with over 7 years of experience in building high-quality, scalable applications. I thrive on projects that challenge me to think critically and solve complex problems.
-</p>
+With over 3 years of experience in the industry, I'm passionate about crafting high-quality, scalable applications that make a difference. My journey in software engineering has equipped me with a robust foundation in various programming languages and cutting-edge technologies.
 
-![MasterHead](https://github.com/BellYou2717/BellYou2717/blob/main/animation.gif)](https://github.com/BellYou2717/BellYou2717)
+<h3>🔧 What I do:</h3>
+• Build robust and scalable applications<br>
+• Tackle complex problems with innovative solutions<br>
+• Continuously learn and adapt to new technologies
 
-<p align="center">
-  When I'm not coding, you can find me tinkering with new technologies or enjoying video games. Thank you for visiting my GitHub account – I hope you find my projects interesting and useful! 🚀
-</p>
+<h3>🌟 What drives me:</h3>
+• The thrill of overcoming challenging projects<br>
+• The satisfaction of writing clean, efficient code<br>
+• The excitement of exploring new tech frontiers
 
-<p align="center">An aspiring developer who is passionate about web technologies and computer science. When I'm not writing code, I like to binge-watch Netflix, listen to music, and think about my lack of hobbies.</p>
+<h3>🎯 When I'm not coding:</h3>
+• Tinkering with the latest tech gadgets<br>
+• Immersing myself in captivating video games<br>
+• Brainstorming ideas for my next big project
+
+Thank you for visiting my GitHub! I hope you find my projects both interesting and useful. Feel free to explore, contribute, or reach out for collaboration opportunities!
+
+<h3>Let's build something amazing together! 🚀</h3>
 
 <h2 align="center">Technology Stack</h2>
 
