@@ -1,4 +1,22 @@
-[![MasterHead](https://github.com/BellYou2717/BellYou2717/blob/main/animation.gif)](https://github.com/BellYou2717/BellYou2717)
+<h1 align="center">👋 Hello, I'm BellYou2717!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AA2D&center=true&vCenter=true&width=435&lines=Passionate+Software+Engineer;7%2B+Years+of+Experience;Building+Scalable+Applications" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/BellYou2717/BellYou2717/blob/main/animation.gif" alt="MasterHead" width="100%">
+</p>
+
+<p align="center">
+  I'm a dedicated software engineer 💻 with over 7 years of experience in building high-quality, scalable applications. I thrive on projects that challenge me to think critically and solve complex problems.
+</p>
+
+![MasterHead](https://github.com/BellYou2717/BellYou2717/blob/main/animation.gif)](https://github.com/BellYou2717/BellYou2717)
+
+<p align="center">
+  When I'm not coding, you can find me tinkering with new technologies or enjoying video games. Thank you for visiting my GitHub account – I hope you find my projects interesting and useful! 🚀
+</p>
 
 <p align="center">An aspiring developer who is passionate about web technologies and computer science. When I'm not writing code, I like to binge-watch Netflix, listen to music, and think about my lack of hobbies.</p>
 
