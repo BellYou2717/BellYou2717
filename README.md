@@ -1,31 +1,7 @@
 # 👋 Hello, I'm BellYou2717
-[![MasterHead](https://github.com/BellYou2717/BellYou2717/blob/main/animation.gif)](https://github.com/BellYou2717/BellYou2717)
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&color=4169E1&center=true&vCenter=true&width=600&height=100&lines=💻+Software+Engineer;🚀+Problem+Solver;🎮+Tech+Enthusiast" alt="Typing SVG" />
 </h2>
-
-<div align="center" style="font-family: 'Roboto', sans-serif; font-size: 18px; color: #4169E1;">
-
-With over 3 years of experience in the industry, I'm passionate about crafting high-quality, scalable applications that make a difference. My journey in software engineering has equipped me with a robust foundation in various programming languages and cutting-edge technologies.
-
-<h3>🔧 What I do:</h3>
-• Build robust and scalable applications<br>
-• Tackle complex problems with innovative solutions<br>
-• Continuously learn and adapt to new technologies
-
-<h3>🌟 What drives me:</h3>
-• The thrill of overcoming challenging projects<br>
-• The satisfaction of writing clean, efficient code<br>
-• The excitement of exploring new tech frontiers
-
-<h3>🎯 When I'm not coding:</h3>
-• Tinkering with the latest tech gadgets<br>
-• Immersing myself in captivating video games<br>
-• Brainstorming ideas for my next big project
-
-Thank you for visiting my GitHub! I hope you find my projects both interesting and useful. Feel free to explore, contribute, or reach out for collaboration opportunities!
-
-<h3>Let's build something amazing together! 🚀</h3>
 
 <h2 align="center">Technology Stack</h2>
 
@@ -64,4 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-{\rtf1}
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nirajan-bist.nirajan-bist)
