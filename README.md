@@ -1,4 +1,4 @@
-<p align="center">[![MasterHead](https://github.com/BellYou2717/BellYou2717/blob/main/animation.gif)](https://github.com/BellYou2717/BellYou2717)<p align="center">
+[![MasterHead](https://github.com/BellYou2717/BellYou2717/blob/main/animation.gif)](https://github.com/BellYou2717/BellYou2717)
 
 <p align="center">An aspiring developer who is passionate about web technologies and computer science. When I'm not writing code, I like to binge-watch Netflix, listen to music, and think about my lack of hobbies.</p>
 
