@@ -21,8 +21,8 @@
 </p>
 
 <h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eknoorpreet&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="Eknoorpreet's GitHub stats" width="500">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eknoorpreet&hide=procfile&theme=jolly" height="197">
+  <img src="https://github-readme-stats.vercel.app/api?username=BellYou2717&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="BellYou2717's GitHub stats" width="500">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellYou2717&hide=procfile&theme=jolly" height="197">
 </h1>
 
 
