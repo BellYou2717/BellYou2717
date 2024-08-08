@@ -20,10 +20,13 @@
   <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&&logoColor=fff" height="30" />
 </p>
 
-<h1 align="center">
+<h2 align="center">My GitHub Stats</h2>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BellYou2717&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="BellYou2717's GitHub stats" width="500">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellYou2717&hide=procfile&theme=jolly" height="197">
-</h1>
+</p>
 
 
 <!--
